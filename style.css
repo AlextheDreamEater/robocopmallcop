@@ -1,0 +1,100 @@
+
+
+article {
+  max-width: 700px;
+  margin: 0 auto;
+  float: left;
+}
+
+section img{
+	margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border: 3px solid white;
+    padding: 10px solid ;
+}
+
+header #mainpic{
+	border-radius: 50%;
+  width: 100%;
+  border: 3px solid white;
+}
+
+iframe{
+	border: 3px solid white;
+    padding: 10px solid ;	
+}
+
+table{ 
+	margin: auto;
+ }
+
+#listone{
+  text-decoration: line-through;
+ 	text-align: left;
+ 	display: inline-block;
+ }
+
+ /*Colors of Text*/
+ .colone{
+ 	color: red;
+ }
+
+ .coltwo{
+ 	color: orange;
+ }
+
+ .colthree{
+ 	color: yellow;
+ }
+
+ .colfour{
+ 	color: green;
+ }
+
+ .colfive{
+ 	color: blue;
+ }
+
+.box{
+	width:100px;
+	height:100px;
+  margin: auto;
+}
+ 
+
+#backtotop{
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+}
+
+body {
+  line-height: 1.4em;
+  background-image: url("https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2012/02/Screen-shot-2012-02-12-at-11.25.28-PM-300x204.png");
+  background-size: cover;
+  font-family: 'Do Hyeon', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+.white {
+  font-color: #ffffff;
+}
+
+.pokemon {
+  display: inline-block;
+  width: 150px;
+}
+
+footer {
+  color: #ffffff; 
+  clear: both;
+  left: 20px;
+}
+
+aside {
+  width: 200px;
+  float: right;
+
+}
